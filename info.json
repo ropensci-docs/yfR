@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "09959de2bfa7d1dfe4656162b8654cfe04c8e674",
+    "author": "msperlin <marceloperlin@gmail.com>",
+    "time": "2022-07-01 11:40:22",
+    "files": 2,
+    "merge": false,
+    "message": "Now available on cran\n"
+  },
+  "repo": "https://github.com/ropensci/yfR",
+  "pkg": "yfR"
+}
