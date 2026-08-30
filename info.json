@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0051bf6157c080265cf2290145f881ff1228e9cb",
+    "author": "msperlin <marceloperlin@gmail.com>",
+    "time": "2026-03-06T18:20:39Z",
+    "files": 1,
+    "merge": false,
+    "message": "cran submission\n"
+  },
+  "repo": "https://github.com/ropensci/yfR",
+  "pkg": "yfR",
+  "time": "2026-08-30T07:40:01Z"
+}
